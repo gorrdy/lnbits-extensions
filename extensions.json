@@ -229,7 +229,7 @@
         },
         {
             "id": "boltcards",
-            "repo": "https://github.com/lnbits/boltcards",
+            "repo": "https://github.com/gorrdy/boltcards",
             "name": "Boltcards",
             "version": "0.0.3",
             "short_description": "Manage your Bolt Cards self custodian way",
